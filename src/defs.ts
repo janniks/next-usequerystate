@@ -1,4 +1,4 @@
-import type { Router } from 'next/router'
+import type { Router } from 'next/navigation'
 
 // Next.js does not export the TransitionsOption interface,
 // but we can get it from where it's used:
